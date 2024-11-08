@@ -35,6 +35,9 @@ This module introduces clustering algorithms, including spectral clustering, doc
 #### Module 6: Dimensionality Reduction (4 hours)
 In this module, we learn both linear and non-linear dimensionality reduction techniques. Linear methods include Principal Component Analysis (PCA), Singular Value Decomposition (SVD), and Factor Analysis, while non-linear methods include Multidimensional Scaling, Manifold Learning, and Self-Organizing Maps.
 
+#### Module 7: Model Development and Evaluation (4 hours)
+This module focuses on constructing and evaluating linear regression models, computing accuracy, and understanding evaluation metrics. It also covers reinforcement learning, including the differences between supervised and reinforcement learning, and explores applications of reinforcement learning in various domains.
+
 ---
 
 ### Happy analyzing!
